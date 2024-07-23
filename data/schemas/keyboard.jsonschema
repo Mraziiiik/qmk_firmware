@@ -320,6 +320,12 @@
                 "on_state": {"$ref": "qmk.definitions.v1#/bit"}
             }
         },
+        "key_interrupt": {
+            "type": "object",
+            "properties": {
+                "enabled": {"type": "boolean"},
+            }
+        },
         "keycodes": {"$ref": "qmk.definitions.v1#/keycode_decl_array"},
         "layout_aliases": {
             "type": "object",

@@ -1,5 +1,4 @@
 VIA_ENABLE = yes
-KEY_INTERRUPT_ENABLE = yes
 DEBOUNCE_TYPE = sym_defer_pk
 OPT = 3
 LTO_ENABLE = yes

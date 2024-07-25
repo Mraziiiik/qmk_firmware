@@ -110,5 +110,9 @@
                 {"matrix":[5,17], "x":18.5, "y":5.25}
             ]
         }
-    }
+    },
+    "features" : {
+    "key_interrupt" : true
+
+}
 }
